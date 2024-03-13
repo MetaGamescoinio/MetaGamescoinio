@@ -9,3 +9,5 @@ MetaGamescoinio/MetaGamescoinio is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 https://MetaGamescoin.io/
+
+[![Meta-Games-Coin-logo-1276-1276.png](https://i.postimg.cc/GppHk7Yx/Meta-Games-Coin-logo-1276-1276.png)](https://postimg.cc/YvJr7xdv)
